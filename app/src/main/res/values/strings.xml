@@ -1,0 +1,7 @@
+<resources>
+    <string name="mainActivity">NasaApp</string>
+    <string name="photoSavedActivity">NasaApp - Saved photos</string>
+    <string name="image_id">Image ID: </string>
+</resources>
+
+
